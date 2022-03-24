@@ -5,7 +5,7 @@ const Header = () => {
     <header className="mb-5 flex items-center gap-8">
       <Image
         className="rounded-xl"
-        src="/photo.jpg"
+        src="/Photo.jpg"
         alt="me"
         width="150"
         height="170"
